@@ -256,6 +256,16 @@
     <Compile Include="Forms\ZoneAnalys\ZoneAnalysisForm.Designer.cs">
       <DependentUpon>ZoneAnalysisForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZoneSettingsManager.cs" />
+    <EmbeddedResource Include="Forms\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\DriverStatisticsForm\DriverPayrollForm.resx">
       <DependentUpon>DriverPayrollForm.cs</DependentUpon>
     </EmbeddedResource>

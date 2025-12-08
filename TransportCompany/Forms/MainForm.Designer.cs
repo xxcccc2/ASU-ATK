@@ -26,6 +26,7 @@
             this.btnOpenZoneAnalysis = new System.Windows.Forms.Button();
             this.btnOpenDriverStatistics = new System.Windows.Forms.Button();
             this.btnEditRegistry = new System.Windows.Forms.Button();
+            this.btnSettings = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // exit
@@ -165,12 +166,26 @@
             this.btnEditRegistry.UseVisualStyleBackColor = false;
             this.btnEditRegistry.Click += new System.EventHandler(this.btnEditRegistry_Click);
             // 
+            // btnSettings
+            // 
+            this.btnSettings.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(89)))), ((int)(((byte)(132)))));
+            this.btnSettings.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSettings.ForeColor = System.Drawing.Color.White;
+            this.btnSettings.Location = new System.Drawing.Point(210, 220);
+            this.btnSettings.Name = "btnSettings";
+            this.btnSettings.Size = new System.Drawing.Size(180, 40);
+            this.btnSettings.TabIndex = 29;
+            this.btnSettings.Text = "⚙ Настройки";
+            this.btnSettings.UseVisualStyleBackColor = false;
+            this.btnSettings.Click += new System.EventHandler(this.btnSettings_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(89)))), ((int)(((byte)(132)))));
             this.ClientSize = new System.Drawing.Size(415, 350);
+            this.Controls.Add(this.btnSettings);
             this.Controls.Add(this.btnEditRegistry);
             this.Controls.Add(this.btnOpenDriverStatistics);
             this.Controls.Add(this.btnOpenZoneAnalysis);
@@ -203,5 +218,6 @@
         private System.Windows.Forms.Button btnOpenZoneAnalysis;
         private System.Windows.Forms.Button btnOpenDriverStatistics;
         private System.Windows.Forms.Button btnEditRegistry;
+        private System.Windows.Forms.Button btnSettings;
     }
 }

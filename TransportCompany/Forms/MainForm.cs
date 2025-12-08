@@ -204,5 +204,21 @@ namespace TransportCompany
         {
             Application.Exit();
         }
+
+        private void btnSettings_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (Forms.SettingsForm settingsForm = new Forms.SettingsForm())
+                {
+                    settingsForm.ShowDialog();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка при открытии настроек: {ex.Message}\n{ex.StackTrace}",
+                    "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
