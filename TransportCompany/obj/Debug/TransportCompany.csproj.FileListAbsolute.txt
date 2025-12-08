@@ -1,0 +1,260 @@
+C:\Учеба\ВКР\TransportCompany\bin\Debug\TransportCompany.exe.config
+C:\Учеба\ВКР\TransportCompany\bin\Debug\TransportCompany.exe
+C:\Учеба\ВКР\TransportCompany\bin\Debug\TransportCompany.pdb
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.csproj.AssemblyReference.cache
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.csproj.ResolveComReference.cache
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.Forms.AddUpdateForm.resources
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.MainForm.resources
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.Properties.Resources.resources
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.csproj.GenerateResource.cache
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.csproj.CoreCompileInputs.cache
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.exe
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.pdb
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.Forms.ТОForm1.resources
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.OSAGOEditForm.resources
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.FleetDiaryForm.resources
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ClosedXML.Parser.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ExcelNumberFormat.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\RBush.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\SixLabors.Fonts.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Buffers.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Memory.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Numerics.Vectors.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ClosedXML.Parser.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ExcelNumberFormat.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\RBush.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\SixLabors.Fonts.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Buffers.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Memory.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Numerics.Vectors.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\ВКР\TransportCompany\obj\Debug\Transpor.C3CDA83F.Up2Date
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.DriverSalaryForm.resources
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.FormImport.resources
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.ComparisonForm.resources
+C:\Учеба\ВКР\TransportCompany\bin\Debug\icon.ico
+C:\Учеба\ВКР\TransportCompany\obj\Debug\TransportCompany.LicenseEditForm.resources
+C:\Учеба\ВКР\TransportCompany\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Enums.NET.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\MathNet.Numerics.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.Core.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OOXML.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\SixLabors.ImageSharp.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.ValueTuple.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Enums.NET.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\Enums.NET.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\MathNet.Numerics.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.Core.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.Core.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OOXML.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OOXML.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\SixLabors.ImageSharp.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\System.ValueTuple.xml
+C:\Учеба\ВКР\TransportCompany\bin\Debug\HtmlAgilityPack.dll
+C:\Учеба\ВКР\TransportCompany\bin\Debug\HtmlAgilityPack.pdb
+C:\Учеба\ВКР\TransportCompany\bin\Debug\HtmlAgilityPack.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\icon.ico
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\TransportCompany.exe.config
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\TransportCompany.exe
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\TransportCompany.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ClosedXML.Parser.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Enums.NET.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ExcelNumberFormat.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\HtmlAgilityPack.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\MathNet.Numerics.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.Core.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OOXML.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\RBush.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\SixLabors.Fonts.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\SixLabors.ImageSharp.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Buffers.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Memory.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Numerics.Vectors.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.ValueTuple.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ClosedXML.Parser.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Enums.NET.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Enums.NET.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ExcelNumberFormat.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\HtmlAgilityPack.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\HtmlAgilityPack.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\MathNet.Numerics.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.Core.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.Core.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OOXML.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OOXML.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\RBush.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\SixLabors.Fonts.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\SixLabors.ImageSharp.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Buffers.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Memory.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Numerics.Vectors.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\System.ValueTuple.xml
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.csproj.AssemblyReference.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.csproj.ResolveComReference.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.ComparisonForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.DriverSalaryForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.FormImport.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.LicenseEditForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.OSAGOEditForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.FleetDiaryForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.Forms.ТОForm1.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.MainForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.Properties.Resources.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.csproj.GenerateResource.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.csproj.CoreCompileInputs.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\Transpor.C3CDA83F.Up2Date
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.exe
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.pdb
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.VehicleDriverEarningsForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.ZoneAnalysisForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\TransportCompany.exe.manifest
+C:\Учеба\ВКР\тест\TransportCompany\bin\Debug\TransportCompany.application
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.exe.manifest
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.application
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.DriverStatisticsForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.DriverPayrollForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Debug\TransportCompany.ChartAnalysisForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\icon.ico
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\TransportCompany.exe.config
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\TransportCompany.exe.manifest
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\TransportCompany.application
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\TransportCompany.exe
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\TransportCompany.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ClosedXML.Parser.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Enums.NET.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ExcelNumberFormat.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\HtmlAgilityPack.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\MathNet.Numerics.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.Core.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OOXML.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\RBush.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\SixLabors.Fonts.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\SixLabors.ImageSharp.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Buffers.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Memory.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Numerics.Vectors.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.ValueTuple.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ClosedXML.Parser.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Enums.NET.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Enums.NET.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ExcelNumberFormat.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\HtmlAgilityPack.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\HtmlAgilityPack.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\MathNet.Numerics.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.Core.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.Core.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OOXML.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OOXML.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\RBush.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\SixLabors.Fonts.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\SixLabors.ImageSharp.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Buffers.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Memory.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Numerics.Vectors.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Debug\System.ValueTuple.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.csproj.AssemblyReference.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.csproj.ResolveComReference.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.DriverPayrollForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.DriverStatisticsForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.ComparisonForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.DriverSalaryForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.FormImport.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.LicenseEditForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.OSAGOEditForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.FleetDiaryForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.VehicleDriverEarningsForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.ChartAnalysisForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.ZoneAnalysisForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.Forms.ТОForm1.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.MainForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.Properties.Resources.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.csproj.GenerateResource.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.csproj.CoreCompileInputs.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.exe.manifest
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.application
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\Transpor.C3CDA83F.Up2Date
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.exe
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Debug\TransportCompany.Forms.EditRegistryForm.resources

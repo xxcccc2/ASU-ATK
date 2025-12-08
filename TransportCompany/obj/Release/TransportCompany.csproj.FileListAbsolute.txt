@@ -1,0 +1,175 @@
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\icon.ico
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\TransportCompany.exe.config
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\TransportCompany.exe.manifest
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\TransportCompany.application
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\TransportCompany.exe
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\TransportCompany.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\BouncyCastle.Cryptography.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ClosedXML.Parser.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Enums.NET.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ExcelNumberFormat.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ExtendedNumerics.BigDecimal.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\HtmlAgilityPack.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\MathNet.Numerics.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.Core.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OOXML.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OpenXml4Net.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\RBush.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\SixLabors.Fonts.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\SixLabors.ImageSharp.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Buffers.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.ComponentModel.Annotations.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Memory.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Numerics.Vectors.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Security.Cryptography.Pkcs.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.ValueTuple.dll
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\BouncyCastle.Cryptography.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ClosedXML.Parser.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Enums.NET.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Enums.NET.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ExcelNumberFormat.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ExtendedNumerics.BigDecimal.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\HtmlAgilityPack.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\HtmlAgilityPack.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\MathNet.Numerics.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.Core.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.Core.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OOXML.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OOXML.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OpenXml4Net.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OpenXml4Net.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OpenXmlFormats.pdb
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\NPOI.OpenXmlFormats.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\RBush.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\SixLabors.Fonts.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\SixLabors.ImageSharp.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Buffers.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Memory.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Numerics.Vectors.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Security.Cryptography.Pkcs.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Security.Cryptography.Xml.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Учеба\ВКР\тест\TransportCompany\bin\Release\System.ValueTuple.xml
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.csproj.AssemblyReference.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.csproj.ResolveComReference.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.ComparisonForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.DriverSalaryForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.FormImport.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.LicenseEditForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.OSAGOEditForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.FleetDiaryForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.VehicleDriverEarningsForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.ZoneAnalysisForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.Forms.ТОForm1.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.MainForm.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.Properties.Resources.resources
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.csproj.GenerateResource.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.csproj.CoreCompileInputs.cache
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.exe.manifest
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.application
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\Transpor.C3CDA83F.Up2Date
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.exe
+C:\Учеба\ВКР\тест\TransportCompany\obj\Release\TransportCompany.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\icon.ico
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\TransportCompany.exe.config
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\TransportCompany.exe.manifest
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\TransportCompany.application
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\TransportCompany.exe
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\TransportCompany.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\BouncyCastle.Cryptography.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ClosedXML.Parser.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Enums.NET.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ExcelNumberFormat.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ExtendedNumerics.BigDecimal.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\HtmlAgilityPack.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\MathNet.Numerics.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.Core.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OOXML.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OpenXml4Net.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\RBush.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\SixLabors.Fonts.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\SixLabors.ImageSharp.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Buffers.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.ComponentModel.Annotations.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Memory.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Numerics.Vectors.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Security.Cryptography.Pkcs.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.ValueTuple.dll
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\BouncyCastle.Cryptography.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ClosedXML.Parser.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Enums.NET.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Enums.NET.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ExcelNumberFormat.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ExtendedNumerics.BigDecimal.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\HtmlAgilityPack.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\HtmlAgilityPack.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\MathNet.Numerics.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.Core.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.Core.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OOXML.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OOXML.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OpenXml4Net.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OpenXml4Net.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OpenXmlFormats.pdb
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\NPOI.OpenXmlFormats.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\RBush.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\SixLabors.Fonts.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\SixLabors.ImageSharp.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Buffers.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Memory.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Numerics.Vectors.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Security.Cryptography.Pkcs.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Security.Cryptography.Xml.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\bin\Release\System.ValueTuple.xml
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.csproj.AssemblyReference.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.csproj.ResolveComReference.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.DriverPayrollForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.DriverStatisticsForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.ComparisonForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.DriverSalaryForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.FormImport.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.LicenseEditForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.OSAGOEditForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.FleetDiaryForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.VehicleDriverEarningsForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.ChartAnalysisForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.ZoneAnalysisForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.Forms.ТОForm1.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.MainForm.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.Properties.Resources.resources
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.csproj.GenerateResource.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.csproj.CoreCompileInputs.cache
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.exe.manifest
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.application
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\Transpor.C3CDA83F.Up2Date
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.exe
+C:\Учеба\ВКР\эксперемент курс\TransportCompany\obj\Release\TransportCompany.pdb

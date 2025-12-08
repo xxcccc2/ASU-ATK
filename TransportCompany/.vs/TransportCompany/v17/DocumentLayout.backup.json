@@ -1,0 +1,770 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u043A\u0440\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\transportcompany\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\editregistryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\editregistryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\vehicledriverearningsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\vehicledriverearningsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\\u0442\u043Eform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\\u0442\u043Eform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TransportCompany||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driverstatisticsform\\driverpayrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driverstatisticsform\\driverpayrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driverstatisticsform\\driverstatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driverstatisticsform\\driverstatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\formimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\formimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driversalaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driversalaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\comparisonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\comparisonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\zoneanalys\\zoneanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\zoneanalys\\zoneanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\zoneanalys\\chartanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\zoneanalys\\chartanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\osagoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\osagoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\licenseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\licenseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\fleetdiaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\fleetdiaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driverstatisticsform\\driverpayrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driverstatisticsform\\driverpayrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driverstatisticsform\\driverstatisticsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driverstatisticsform\\driverstatisticsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driverstatisticsform\\driverstatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driverstatisticsform\\driverstatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driverstatisticsform\\driverpayrollform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driverstatisticsform\\driverpayrollform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\zoneanalys\\chartanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\zoneanalys\\chartanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\zoneanalys\\chartanalysisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\zoneanalys\\chartanalysisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\zoneanalys\\zoneanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\zoneanalys\\zoneanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\zoneanalys\\zoneanalysisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\zoneanalys\\zoneanalysisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driversalaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driversalaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\driversalaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\driversalaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\formimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\formimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\vehicledriverearningsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\vehicledriverearningsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\comparisonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\comparisonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\licenseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\licenseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\\u0442\u043Eform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\\u0442\u043Eform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\fleetdiaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\fleetdiaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\licenseeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\licenseeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\osagoeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\osagoeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\osagoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\osagoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\fleetdiary\\fleetdiaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\fleetdiary\\fleetdiaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\formimport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\formimport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\vehicledriverearningsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\vehicledriverearningsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\\u0442\u043Eform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\\u0442\u043Eform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\comparisonform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\comparisonform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\forms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:forms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\TransportCompany\\packages\\EPPlus.7.0.9\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCFFEEB-93C2-439D-9A8E-034F3486F1CF}|TransportCompany.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditRegistryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\EditRegistryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditRegistryForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\EditRegistryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\EditRegistryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:38:02.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:29:22.439Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransportCompany",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\TransportCompany.csproj",
+              "RelativeDocumentMoniker": "TransportCompany.csproj",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\TransportCompany.csproj",
+              "RelativeToolTip": "TransportCompany.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T21:12:27.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0422\u041EForm1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\\u0422\u041EForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\\u0422\u041EForm1.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\\u0422\u041EForm1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\\u0422\u041EForm1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:31:10.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleDriverEarningsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\VehicleDriverEarningsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\VehicleDriverEarningsForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\VehicleDriverEarningsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\VehicleDriverEarningsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:51:31.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T16:22:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:29:23.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriverStatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:33:56.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriverPayrollForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverPayrollForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverStatisticsForm\\DriverPayrollForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverPayrollForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\DriverStatisticsForm\\DriverPayrollForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:56:01.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormImport.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FormImport.cs",
+              "RelativeDocumentMoniker": "Forms\\FormImport.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FormImport.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FormImport.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:41:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DriverSalaryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverSalaryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverSalaryForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\DriverSalaryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\DriverSalaryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:43:23.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComparisonForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ComparisonForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ComparisonForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\ComparisonForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\ComparisonForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:20:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZoneAnalysisForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ZoneAnalys\\ZoneAnalysisForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:54:39.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChartAnalysisForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ZoneAnalys\\ChartAnalysisForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:45:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OSAGOEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\OSAGOEditForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:25:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LicenseEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\LicenseEditForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:30:07.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FleetDiaryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\FleetDiaryForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\\u0442\u0435\u0441\u0442\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:53:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DriverPayrollForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverPayrollForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverStatisticsForm\\DriverPayrollForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverPayrollForm.cs",
+              "RelativeToolTip": "Forms\\DriverStatisticsForm\\DriverPayrollForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:56:22.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DriverStatisticsForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs",
+              "RelativeToolTip": "Forms\\DriverStatisticsForm\\DriverStatisticsForm.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAA3wKQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:34:10.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DriverStatisticsForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverStatisticsForm\\DriverStatisticsForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverStatisticsForm.Designer.cs",
+              "RelativeToolTip": "Forms\\DriverStatisticsForm\\DriverStatisticsForm.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwMsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:34:25.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DriverPayrollForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverPayrollForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverStatisticsForm\\DriverPayrollForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverStatisticsForm\\DriverPayrollForm.Designer.cs",
+              "RelativeToolTip": "Forms\\DriverStatisticsForm\\DriverPayrollForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:56:30.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAgwL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:49:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChartAnalysisForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ZoneAnalys\\ChartAnalysisForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.cs",
+              "RelativeToolTip": "Forms\\ZoneAnalys\\ChartAnalysisForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:46:30.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChartAnalysisForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\ZoneAnalys\\ChartAnalysisForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ChartAnalysisForm.Designer.cs",
+              "RelativeToolTip": "Forms\\ZoneAnalys\\ChartAnalysisForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:46:51.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ZoneAnalysisForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ZoneAnalys\\ZoneAnalysisForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.cs",
+              "RelativeToolTip": "Forms\\ZoneAnalys\\ZoneAnalysisForm.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAkwDUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:54:41.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ZoneAnalysisForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\ZoneAnalys\\ZoneAnalysisForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ZoneAnalys\\ZoneAnalysisForm.Designer.cs",
+              "RelativeToolTip": "Forms\\ZoneAnalys\\ZoneAnalysisForm.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:54:54.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DriverSalaryForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverSalaryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverSalaryForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverSalaryForm.Designer.cs",
+              "RelativeToolTip": "Forms\\DriverSalaryForm.Designer.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAkwMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:42:50.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DriverSalaryForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverSalaryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DriverSalaryForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\DriverSalaryForm.cs",
+              "RelativeToolTip": "Forms\\DriverSalaryForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:41:19.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormImport.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FormImport.cs",
+              "RelativeDocumentMoniker": "Forms\\FormImport.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FormImport.cs",
+              "RelativeToolTip": "Forms\\FormImport.cs",
+              "ViewState": "AgIAAMwCAAAAAAAAAAAkwP4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:41:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VehicleDriverEarningsForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\VehicleDriverEarningsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\VehicleDriverEarningsForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\VehicleDriverEarningsForm.cs",
+              "RelativeToolTip": "Forms\\VehicleDriverEarningsForm.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAuwJ4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:51:58.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ComparisonForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ComparisonForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ComparisonForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ComparisonForm.cs",
+              "RelativeToolTip": "Forms\\ComparisonForm.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAWwPQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:20:47.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OSAGOEditForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\OSAGOEditForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.cs",
+              "RelativeToolTip": "Forms\\FleetDiary\\OSAGOEditForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:27:29.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FleetDiaryForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\FleetDiaryForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.cs",
+              "RelativeToolTip": "Forms\\FleetDiary\\FleetDiaryForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:56:56.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "\u0422\u041EForm1.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\\u0422\u041EForm1.cs",
+              "RelativeDocumentMoniker": "Forms\\\u0422\u041EForm1.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\\u0422\u041EForm1.cs",
+              "RelativeToolTip": "Forms\\\u0422\u041EForm1.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwK0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:53:04.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LicenseEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\LicenseEditForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.Designer.cs",
+              "RelativeToolTip": "Forms\\FleetDiary\\LicenseEditForm.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:30:36.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OSAGOEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\OSAGOEditForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\OSAGOEditForm.Designer.cs",
+              "RelativeToolTip": "Forms\\FleetDiary\\OSAGOEditForm.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:27:51.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LicenseEditForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\LicenseEditForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\LicenseEditForm.cs",
+              "RelativeToolTip": "Forms\\FleetDiary\\LicenseEditForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:30:18.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FleetDiaryForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FleetDiary\\FleetDiaryForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FleetDiary\\FleetDiaryForm.Designer.cs",
+              "RelativeToolTip": "Forms\\FleetDiary\\FleetDiaryForm.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAmwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:37:10.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:28:51.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:28:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:28:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormImport.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FormImport.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormImport.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\FormImport.Designer.cs",
+              "RelativeToolTip": "Forms\\FormImport.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:42:15.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VehicleDriverEarningsForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\VehicleDriverEarningsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\VehicleDriverEarningsForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\VehicleDriverEarningsForm.Designer.cs",
+              "RelativeToolTip": "Forms\\VehicleDriverEarningsForm.Designer.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAwwOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:52:03.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ComparisonForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ComparisonForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\ComparisonForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\ComparisonForm.Designer.cs",
+              "RelativeToolTip": "Forms\\ComparisonForm.Designer.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAwwBIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:21:01.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "\u0422\u041EForm1.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\\u0422\u041EForm1.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\\u0422\u041EForm1.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\\u0422\u041EForm1.Designer.cs",
+              "RelativeToolTip": "Forms\\\u0422\u041EForm1.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwOoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:53:59.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.resx",
+              "RelativeDocumentMoniker": "Forms\\MainForm.resx",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Forms\\MainForm.resx",
+              "RelativeToolTip": "Forms\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-29T10:04:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\\u044D\u043A\u0441\u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0442 \u043A\u0443\u0440\u0441\\TransportCompany\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:24:35.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\TransportCompany\\packages\\EPPlus.7.0.9\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\TransportCompany\\packages\\EPPlus.7.0.9\\readme.txt",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u041A\u0420\\TransportCompany\\packages\\EPPlus.7.0.9\\readme.txt",
+              "RelativeToolTip": "..\\..\\TransportCompany\\packages\\EPPlus.7.0.9\\readme.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-14T06:46:54.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
