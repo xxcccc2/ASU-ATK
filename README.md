@@ -175,7 +175,3 @@
 **IDE:** Visual Studio  
 **Решение:** TransportCompany.sln  
 **Проект:** TransportCompany.csproj
-
----
-
-**Документация сгенерирована из:** [DeepWiki](https://deepwiki.com/xxcccc2/ASU-ATK)
