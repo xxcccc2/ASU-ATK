@@ -2,6 +2,7 @@ using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+using TransportCompany.UI.Controls;
 
 namespace TransportCompany.UI.Theme
 {
@@ -12,50 +13,44 @@ namespace TransportCompany.UI.Theme
 
         public static Button PrimaryButton(string text, string iconGlyph = null)
         {
-            Button button = BaseButton(text, iconGlyph);
-            button.BackColor = Palette.Accent;
+            RoundedButton button = BaseButton(text, iconGlyph);
+            button.FillNormal = Palette.Accent;
+            button.FillHover = Palette.AccentHover;
+            button.FillPress = Palette.AccentPressed;
             button.ForeColor = Palette.TextOnAccent;
-            button.FlatAppearance.BorderSize = 0;
-            button.FlatAppearance.MouseOverBackColor = Palette.AccentHover;
-            button.FlatAppearance.MouseDownBackColor = Palette.AccentPressed;
             return button;
         }
 
         public static Button SecondaryButton(string text, string iconGlyph = null)
         {
-            Button button = BaseButton(text, iconGlyph);
-            button.BackColor = Color.White;
+            RoundedButton button = BaseButton(text, iconGlyph);
+            button.FillNormal = Color.White;
+            button.FillHover = Palette.PageBack;
+            button.FillPress = Palette.Border;
+            button.OutlineColor = Palette.Border;
             button.ForeColor = Palette.TextPrimary;
-            button.FlatAppearance.BorderSize = 1;
-            button.FlatAppearance.BorderColor = Palette.Border;
-            button.FlatAppearance.MouseOverBackColor = Palette.PageBack;
             return button;
         }
 
         public static Button DangerButton(string text, string iconGlyph = null)
         {
-            Button button = BaseButton(text, iconGlyph);
-            button.BackColor = Color.White;
+            RoundedButton button = BaseButton(text, iconGlyph);
+            button.FillNormal = Color.White;
+            button.FillHover = Palette.DangerSoft;
+            button.FillPress = Palette.DangerSoft;
+            button.OutlineColor = Palette.Border;
             button.ForeColor = Palette.Danger;
-            button.FlatAppearance.BorderSize = 1;
-            button.FlatAppearance.BorderColor = Palette.Border;
-            button.FlatAppearance.MouseOverBackColor = Palette.DangerSoft;
             return button;
         }
 
-        private static Button BaseButton(string text, string iconGlyph)
+        private static RoundedButton BaseButton(string text, string iconGlyph)
         {
-            var button = new Button
+            var button = new RoundedButton
             {
-                Text = iconGlyph == null ? text : iconGlyph + "  " + text,
-                FlatStyle = FlatStyle.Flat,
-                Font = Fonts.Body,
+                Text = string.IsNullOrEmpty(iconGlyph) ? text : iconGlyph + "  " + text,
                 AutoSize = true,
                 AutoSizeMode = AutoSizeMode.GrowAndShrink,
-                Padding = new Padding(12, 6, 12, 6),
-                Cursor = Cursors.Hand,
-                UseVisualStyleBackColor = false,
-                TabStop = true
+                Padding = new Padding(14, 7, 14, 7)
             };
             return button;
         }
@@ -173,6 +168,23 @@ namespace TransportCompany.UI.Theme
 
             Apply();
             control.SizeChanged += (s, e) => Apply();
+        }
+
+        /// <summary>
+        /// Ближайший непрозрачный цвет фона вверх по дереву контролов.
+        /// Нужен, чтобы скруглённые кнопки/карточки заливали углы цветом поверхности,
+        /// на которой лежат (белая карточка или серый фон страницы).
+        /// </summary>
+        public static Color ResolveBackColor(Control start)
+        {
+            for (Control control = start; control != null; control = control.Parent)
+            {
+                if (control.BackColor.A == 255 && control.BackColor != Color.Transparent)
+                {
+                    return control.BackColor;
+                }
+            }
+            return Palette.PageBack;
         }
 
         public static GraphicsPath RoundedRect(Rectangle bounds, int radius)

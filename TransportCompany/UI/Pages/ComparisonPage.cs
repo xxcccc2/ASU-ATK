@@ -30,7 +30,7 @@ namespace TransportCompany.UI.Pages
             Padding = new Padding(24, 16, 24, 16);
 
             // ----- Фильтры -----
-            var filterCard = new CardPanel { Dock = DockStyle.Top, Height = 150, Padding = new Padding(16, 10, 16, 10) };
+            var filterCard = new CardPanel { Dock = DockStyle.Top, Height = 164, Padding = new Padding(16, 10, 16, 10) };
 
             var label1 = Styler.MutedLabel("Первый объект");
             label1.Location = new Point(16, 10);
@@ -51,8 +51,7 @@ namespace TransportCompany.UI.Pages
             _period.Location = new Point(300, 30);
 
             Button compare = Styler.PrimaryButton("Сравнить");
-            compare.Location = new Point(880, 60);
-            compare.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            compare.Location = new Point(620, 118);
             compare.Click += (s, e) => Compare();
 
             filterCard.Controls.Add(label1);
@@ -92,6 +91,9 @@ namespace TransportCompany.UI.Pages
             var card = new CardPanel { Dock = DockStyle.Fill, Margin = new Padding(6), Padding = new Padding(8) };
 
             chart.Dock = DockStyle.Fill;
+            // Chart бросает исключение при нулевой высоте во время начального layout
+            // (страница строится до добавления в окно) — минимальный размер это исключает.
+            chart.MinimumSize = new Size(10, 10);
             chart.BackColor = Color.White;
             var area = new ChartArea("Main")
             {
