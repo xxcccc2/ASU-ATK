@@ -1,10 +1,18 @@
-﻿using System;
-using System.Data;
-using System.Data.SqlClient;
+using System;
 using System.Windows.Forms;
+using TransportCompany.Core;
+using TransportCompany.Core.Data;
+using TransportCompany.Core.Logging;
+using TransportCompany.UI;
+using TransportCompany.UI.Shell;
 
 namespace TransportCompany
 {
+    /// <summary>
+    /// Точка входа и composition root: здесь собираются зависимости приложения.
+    /// Проверки истекающих сроков больше не блокируют запуск —
+    /// они показываются на главной странице.
+    /// </summary>
     static class Program
     {
         [STAThread]
@@ -13,86 +21,40 @@ namespace TransportCompany
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Объединённое уведомление
-            string message = "Приложение запускается...\n\n";
+            AppLogger.Info("Запуск приложения АТК-Форум");
 
-            // Проверка истекающих сроков ОСАГО и удостоверений
+            AppServices services;
             try
             {
-                DataTable osagoExpiring = DB.GetExpiringOSAGO();
-                DataTable licensesExpiring = DB.GetExpiringLicenses();
-
-                if (osagoExpiring.Rows.Count > 0)
-                {
-                    message += "Истекают сроки ОСАГО:\n";
-                    foreach (DataRow row in osagoExpiring.Rows)
-                    {
-                        message += $"- Автомобиль: {row["VehicleRegistrationNumber"]}, Полис: {row["PolicyNumber"]}, Истекает: {row["EndDate"]:dd.MM.yyyy}\n";
-                    }
-                }
-                if (licensesExpiring.Rows.Count > 0)
-                {
-                    message += "\nИстекают сроки водительских удостоверений:\n";
-                    foreach (DataRow row in licensesExpiring.Rows)
-                    {
-                        message += $"- Водитель: {row["DriverFullName"]}, Удостоверение: {row["LicenseNumber"]}, Истекает: {row["ExpiryDate"]:dd.MM.yyyy}\n";
-                    }
-                }
+                var connectionFactory = new SqlConnectionFactory(() => Config.ConnectionString);
+                services = new AppServices(connectionFactory);
             }
             catch (Exception ex)
             {
-                message += $"\nОшибка при проверке ОСАГО и удостоверений: {ex.Message}\n";
+                AppLogger.Error("Не удалось инициализировать приложение", ex);
+                UiNotify.Error(
+                    "Не удалось инициализировать приложение. Проверьте конфигурацию подключения к базе данных.",
+                    ex);
+                return;
             }
 
-            // Проверка просроченного ТО
+            Application.ThreadException += (sender, args) =>
+            {
+                AppLogger.Error("Необработанное исключение UI", args.Exception);
+                UiNotify.Error("Произошла непредвиденная ошибка.", args.Exception);
+            };
+
             try
             {
-                using (SqlConnection connection = new SqlConnection(DB.ConnectionString))
-                {
-                    string query = @"
-                        SELECT [Номер машины], [Дата последнего ТО] 
-                        FROM Техобслуживание 
-                        WHERE DATEADD(MONTH, 3, [Дата последнего ТО]) < GETDATE()";
-
-                    connection.Open();
-
-                    using (SqlCommand cmd = new SqlCommand(query, connection))
-                    {
-                        using (SqlDataReader reader = cmd.ExecuteReader())
-                        {
-                            if (reader.HasRows)
-                            {
-                                message += "\nСледующие машины требуют ТО:\n";
-                                while (reader.Read())
-                                {
-                                    string carNumber = reader["Номер машины"].ToString();
-                                    DateTime lastTO = Convert.ToDateTime(reader["Дата последнего ТО"]);
-                                    message += $"- {carNumber} (последнее ТО: {lastTO:dd.MM.yyyy})\n";
-                                }
-                            }
-                        }
-                    }
-                }
+                Application.Run(new MainShellForm(services));
             }
             catch (Exception ex)
             {
-                message += $"\nОшибка при проверке ТО: {ex.Message}\n";
+                AppLogger.Error("Критическая ошибка приложения", ex);
+                UiNotify.Error("Критическая ошибка приложения.", ex);
             }
 
-            // Показываем уведомление, если есть что показать
-            if (message != "Приложение запускается...\n\n")
-            {
-                MessageBox.Show(message, "Уведомление", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-
-            try
-            {
-                Application.Run(new MainForm());
-            }
-            catch (SystemException ex)
-            {
-                MessageBox.Show($"Исключение: {ex.Message}");
-            }
+            AppLogger.Info("Завершение работы приложения");
         }
     }
 }

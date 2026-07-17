@@ -1,0 +1,18 @@
+# Сборка
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Секреты и ключи — не хранить в репозитории
+*.pfx
+*.snk
+
+# Локальные журналы приложения
+*.log
+ComparisonLog.txt
+EarningsLog.txt
+ImportLog.txt

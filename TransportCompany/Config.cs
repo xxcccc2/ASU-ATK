@@ -1,55 +1,47 @@
-﻿using System;
+using System;
 using System.Configuration;
-using System.Windows.Forms;
 
 namespace TransportCompany
 {
+    /// <summary>
+    /// Конфигурация приложения. Слой конфигурации не показывает UI —
+    /// ошибки пробрасываются исключениями, вызывающий код решает, как их отобразить.
+    /// </summary>
     public static class Config
     {
         private static string _connectionString;
-        
-        public static string connectionString
+
+        public static string ConnectionString
         {
             get
             {
                 if (string.IsNullOrEmpty(_connectionString))
                 {
-                    try
+                    _connectionString = ConfigurationManager.AppSettings["conString"];
+                    if (string.IsNullOrEmpty(_connectionString))
                     {
-                        _connectionString = ConfigurationManager.AppSettings["conString"];
-                        if (string.IsNullOrEmpty(_connectionString))
-                        {
-                            MessageBox.Show("Ошибка: строка подключения не найдена в конфигурации", "Ошибка конфигурации", 
-                                MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show($"Ошибка при чтении строки подключения: {ex.Message}", "Ошибка конфигурации", 
-                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        throw new ConfigurationErrorsException(
+                            "Строка подключения 'conString' не найдена в конфигурации приложения.");
                     }
                 }
                 return _connectionString;
             }
-            set
-            {
-                _connectionString = value;
-                try
-                {
-                    Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
-                    config.AppSettings.Settings["conString"].Value = value;
-                    config.Save(ConfigurationSaveMode.Modified);
-                    ConfigurationManager.RefreshSection("appSettings");
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show($"Ошибка при сохранении строки подключения: {ex.Message}", "Ошибка конфигурации", 
-                        MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-            }
         }
 
-        public static string CurrentOperator { get; set; }
+        public static void SaveConnectionString(string value)
+        {
+            if (string.IsNullOrWhiteSpace(value))
+            {
+                throw new ArgumentException("Строка подключения не может быть пустой.");
+            }
+
+            Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
+            config.AppSettings.Settings["conString"].Value = value;
+            config.Save(ConfigurationSaveMode.Modified);
+            ConfigurationManager.RefreshSection("appSettings");
+            _connectionString = value;
+        }
+
+        public static string CurrentOperator { get; set; } = Environment.UserName;
     }
 }
-
